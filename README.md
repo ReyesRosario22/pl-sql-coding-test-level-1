@@ -31,4 +31,4 @@ Your task is to come up with an ERD (in `.png` format) and a DDL script in `.sql
 - Due to recent changes in database access operation, any data manipulation must be done through a store procedure or function.
   - Create a stored procedure to insert, update and delete user and book
   - Create a bulk delete stored procedure for book based on their author
-  - Create a stored procedure to blacklist and restore using access
+  - Create a stored procedure to blacklist and restore user access

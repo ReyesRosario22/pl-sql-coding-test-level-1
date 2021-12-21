@@ -4,6 +4,10 @@
 - This test assume that you are familiar with basic Git commands
 - This test assume that you have necessary tools to complete the test such as code editor, installation of SQL database
 
+## FORK THIS REPOSITORY FIRST
+- By forking this repository, we can see your submission right away (submission is not valid unless you do this)
+- Commit early and often
+
 ### Stage 1 - Table Design
 Your task is to come up with an ERD (in `.png` format) and a DDL script in `.sql` format. Your requirement as follows.
 - Company **BookWonder** also known as **BW** wants to create a new book management system
